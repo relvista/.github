@@ -5,8 +5,8 @@
 **relvista** turns [DBML](https://dbml.dbdiagram.io/docs/) into entity-relationship diagrams you can edit, share and embed. It reads the same DBML as dbdiagram.io, keeps your `.dbml` file byte-for-byte untouched, and stores table positions in a small sidecar file that sits next to it in Git.
 
 <p>
-  <a href="https://relvista.github.io/relvista/editor/"><b>Open the editor</b></a> ·
-  <a href="https://relvista.github.io/relvista/"><b>Documentation</b></a> ·
+  <a href="https://relvista.org/editor/"><b>Open the editor</b></a> ·
+  <a href="https://relvista.org/"><b>Documentation</b></a> ·
   <a href="https://github.com/relvista/relvista"><b>Source</b></a>
 </p>
 
@@ -33,7 +33,7 @@ Table orders {
 }
 ```
 
-Paste that into the [editor](https://relvista.github.io/relvista/editor/), or put it in a Markdown file in a Docusaurus site with the plugin installed.
+Paste that into the [editor](https://relvista.org/editor/), or put it in a Markdown file in a Docusaurus site with the plugin installed.
 
 ### Get involved
 
